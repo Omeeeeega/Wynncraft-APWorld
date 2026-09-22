@@ -1,4 +1,4 @@
-Fork to fix errors appearing on the (Ionium APTests Fuzzer)[https://aptests.ionium.fyi/]
+Fork to fix errors appearing on the [Ionium APTests Fuzzer](https://aptests.ionium.fyi/)
 
 to-do:
 - ~~options.py incorrect option~~
