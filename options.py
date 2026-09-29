@@ -114,7 +114,7 @@ class GoalQuest(TextChoice):
     option_feathers = 10
     option_breaking = 11
     option_hunters = 12
-    option_apotheosis = 13
+    option_apotheosis =13
 
     default = option_llevigar
 
