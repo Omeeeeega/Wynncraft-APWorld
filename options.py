@@ -153,7 +153,6 @@ class StartingRoute(Choice):
 
     display_name = "Starting Route"
 
-    option_none = 0
     option_alekin = 1
     option_detlas = 2
 
